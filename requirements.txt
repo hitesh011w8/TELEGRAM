@@ -18,6 +18,7 @@ yt-dlp==2025.02.19
 motor
 aiohttp
 aiofiles
+colorama
 pytz
 ffmpeg
 umongo==3.1.0
